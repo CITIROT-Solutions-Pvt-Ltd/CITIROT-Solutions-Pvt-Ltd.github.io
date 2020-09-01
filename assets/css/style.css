@@ -736,6 +736,591 @@ section {
   line-height: 24px;
 }
 
+/* semiconductor Section
+--------------------------------*/
+#semiconductor {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#semiconductor .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#semiconductor .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#semiconductor .icon a {
+  display: inline-block;
+}
+
+#semiconductor .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#semiconductor .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#semiconductor .box:hover .icon i {
+  color: #2dc997;
+}
+
+#semiconductor .box:hover .icon a {
+  color: #2dc997;
+}
+
+#semiconductor .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#semiconductor .title a {
+  color: #111;
+}
+
+#semiconductor .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+/* automotive Section
+--------------------------------*/
+#automotive {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#automotive .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#automotive .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#automotive .icon a {
+  display: inline-block;
+}
+
+#automotive .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#automotive .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#automotive .box:hover .icon i {
+  color: #2dc997;
+}
+
+#automotive .box:hover .icon a {
+  color: #2dc997;
+}
+
+#automotive .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#automotive .title a {
+  color: #111;
+}
+
+#automotive .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+
+/* healthcare Section
+--------------------------------*/
+#healthcare {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#healthcare .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#healthcare .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#healthcare .icon a {
+  display: inline-block;
+}
+
+#healthcare .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#healthcare .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#healthcare .box:hover .icon i {
+  color: #2dc997;
+}
+
+#healthcare .box:hover .icon a {
+  color: #2dc997;
+}
+
+#healthcare .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#healthcare .title a {
+  color: #111;
+}
+
+#healthcare .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* aerospace Section
+--------------------------------*/
+#aerospace {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#aerospace .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#aerospace .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#aerospace .icon a {
+  display: inline-block;
+}
+
+#aerospace .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#aerospace .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#aerospace .box:hover .icon i {
+  color: #2dc997;
+}
+
+#aerospace .box:hover .icon a {
+  color: #2dc997;
+}
+
+#aerospace .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#aerospace .title a {
+  color: #111;
+}
+
+#aerospace .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* electronics Section
+--------------------------------*/
+#electronics {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#electronics .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#electronics .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#electronics .icon a {
+  display: inline-block;
+}
+
+#electronics .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#electronics .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#electronics .box:hover .icon i {
+  color: #2dc997;
+}
+
+#electronics .box:hover .icon a {
+  color: #2dc997;
+}
+
+#electronics .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#electronics .title a {
+  color: #111;
+}
+
+#electronics .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* energy Section
+--------------------------------*/
+#energy {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#energy .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#energy .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#energy .icon a {
+  display: inline-block;
+}
+
+#energy .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#energy .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#energy .box:hover .icon i {
+  color: #2dc997;
+}
+
+#energy .box:hover .icon a {
+  color: #2dc997;
+}
+
+#energy .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#energy .title a {
+  color: #111;
+}
+
+#energy .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* industrial-machining Section
+--------------------------------*/
+#industrial-machining {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#industrial-machining .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#industrial-machining .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#industrial-machining .icon a {
+  display: inline-block;
+}
+
+#industrial-machining .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#industrial-machining .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#industrial-machining .box:hover .icon i {
+  color: #2dc997;
+}
+
+#industrial-machining .box:hover .icon a {
+  color: #2dc997;
+}
+
+#industrial-machining .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#industrial-machining .title a {
+  color: #111;
+}
+
+#industrial-machining .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* logistics Section
+--------------------------------*/
+#logistics {
+  background: #fff;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#logistics .box {
+  padding: 50px 20px;
+  margin-bottom: 50px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  height: 200px;
+  position: relative;
+  background: #fafafa;
+}
+
+#logistics .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 72px;
+  height: 72px;
+  background: #2dc997;
+}
+
+#logistics .icon a {
+  display: inline-block;
+}
+
+#logistics .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#logistics .box:hover .icon {
+  background: #fff;
+  border: 2px solid #2dc997;
+}
+
+#logistics .box:hover .icon i {
+  color: #2dc997;
+}
+
+#logistics .box:hover .icon a {
+  color: #2dc997;
+}
+
+#logistics .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#logistics .title a {
+  color: #111;
+}
+
+#logistics .description {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
