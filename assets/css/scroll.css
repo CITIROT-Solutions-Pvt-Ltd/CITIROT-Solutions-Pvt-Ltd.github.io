@@ -10,9 +10,11 @@ html, body {
     overflow-x: scroll;    
     white-space: nowrap;
     width: 100%;
+    text-align: center;
 }
 
 #scroll img {
     height: 100%;
     vertical-align: top; /* this prevents vertical whitespace */
+    
 }
